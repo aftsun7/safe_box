@@ -1,6 +1,6 @@
 <div>
-    [Spanish](https://github.com/aftsun7/safe_box/blob/main/readme_config/versions/readme_es.md)
-    [Portuguese](https://github.com/aftsun7/safe_box/blob/main/readme_config/versions/readme_pt.md)
+    <a href="https://github.com/aftsun7/safe_box/blob/main/readme_config/versions/readme_es.md"> Spanish </a>
+    <a href="https://github.com/aftsun7/safe_box/blob/main/readme_config/versions/readme_pt.md"> Portuguese </a>
 </div>
 
 <div>
