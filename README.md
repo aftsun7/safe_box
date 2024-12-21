@@ -1,6 +1,6 @@
 <div>
-    [Spanish](./readme_config/versions/readme_es.md)
-    [Portuguese](./readme_config/versions/readme_pt.md)
+    [Spanish](https://github.com/aftsun7/safe_box/blob/main/readme_config/versions/readme_es.md)
+    [Portuguese](https://github.com/aftsun7/safe_box/blob/main/readme_config/versions/readme_pt.md)
 </div>
 
 <div>
